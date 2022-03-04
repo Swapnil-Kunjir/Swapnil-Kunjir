@@ -1,6 +1,7 @@
 #### Hi I am Swapnil 👋
 
 - 📫 How to reach me: swapnilskunjir@gmail.com
+- :beginner: Interested in Statistics , machine learning, deep learning
 
 <!--
 **Swapnil-Kunjir/Swapnil-Kunjir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
